@@ -3,4 +3,4 @@
 - It is an open source that people can feel free to use and exchange ideas freely regarding Jedar. 
 ---
 
-
+## What can Jedar do?
