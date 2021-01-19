@@ -16,3 +16,6 @@
 ---
 
 ## Tools 
+- PHP
+- CSS
+- Javascript
