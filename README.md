@@ -16,6 +16,8 @@
 ---
 
 ## Tools 
-- PHP
+- PHP 7.0 or above
 - CSS
 - Javascript
+- HTML5
+- Mysql
