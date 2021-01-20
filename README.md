@@ -24,6 +24,12 @@
 ---
 
 ## Developer Setup:
-Part one: Add username on Visual Studio
+Part One: Add username on Visual Studio
 1. Download XAMPP 7.2
 - https://www.apachefriends.org/download.html
+<img width="392" alt="xampp" src="https://user-images.githubusercontent.com/77263442/105158340-d688e200-5b48-11eb-8403-95c9f36c00e7.png">
+
+2. Download master.zip from slack (sent by Karl)
+
+3. Open 'Visual Studio' > tap 'Open Folder' > Follow the picture below 
+
