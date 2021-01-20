@@ -34,5 +34,6 @@ Part One: Add username on Visual Studio
 3. Open 'Visual Studio' > tap 'Open Folder' > Follow the picture below 
 <img width="348" alt="Picture2" src="https://user-images.githubusercontent.com/77263442/105159173-bdccfc00-5b49-11eb-8fc8-c792963fc951.png">
 
-4. After Dragging master.zip, tap 'Open' on the bottome right corner and tap 'dbconfig.php' to edit the username and password. Save to complete the step. 
+4. After Dragging master.zip > tap 'Open' on the bottome right corner > tap 'dbconfig.php' > edit the username and password > Save 
+<img width="337" alt="Picture3" src="https://user-images.githubusercontent.com/77263442/105159872-8d399200-5b4a-11eb-84af-955dcb196f92.png">
 
