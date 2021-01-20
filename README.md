@@ -26,4 +26,4 @@
 ## Developer Setup:
 Part one: Add username on Visual Studio
 1. Download XAMPP 7.2
-https://www.apachefriends.org/download.html
+- https://www.apachefriends.org/download.html
